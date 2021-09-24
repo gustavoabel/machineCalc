@@ -1,2 +1,3 @@
 # machineCalc
-Calculator
+
+Finalizado.
